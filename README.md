@@ -68,23 +68,30 @@ Category	Tools :
 Framework	LangChain, LangGraph, LangSmith
 
 LLMs	 : 
+
 OpenAI GPT, HuggingFace models
+
 Embeddings :
+
 SentenceTransformers, OpenAIEmbeddings
+
 Vector Stores :
+
 FAISS, ChromaDB
+
 Evaluation	:
+
 LangSmith traces, metrics, and visualizations
 
 🧪 Monitoring and Evaluation
 
-LangSmith integration allows:
+-- LangSmith integration allows:
 
-Real-time tracing of model responses
+-- Real-time tracing of model responses
 
-Evaluation of retrieval accuracy and context relevance
+-- Evaluation of retrieval accuracy and context relevance
 
-Comparison of prompt strategies
+-- Comparison of prompt strategies
 
 
 🧠 What You’ll Learn

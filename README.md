@@ -1,11 +1,10 @@
-Full_RAG — Complete RAG Tutorial with LangChain, LangGraph & LangSmith
+🧠 Full_RAG — Complete RAG Tutorial with LangChain, LangGraph & LangSmith
 
 Welcome to Full_RAG, a complete hands-on tutorial and implementation guide for Retrieval-Augmented Generation (RAG) systems — built with the power of LangChain, LangGraph, and LangSmith.
-This repository walks you through every step of designing, implementing, testing, and monitoring an end-to-end RAG pipeline — from document ingestion to evaluation and deployment.
+This repository walks you through every step of designing, implementing, testing, and monitoring an end-to-end RAG pipeline, from document ingestion to evaluation and deployment.
 
 🚀 Features
-
-📘 Comprehensive RAG pipeline
+📘 Comprehensive RAG Pipeline
 
 Data ingestion, text splitting, and vectorization
 
@@ -13,16 +12,13 @@ Retrieval and context injection
 
 Response generation and evaluation
 
-⚙️ Built with modern AI frameworks
+⚙️ Built with Modern AI Frameworks
 
-LangChain
-: RAG logic and orchestration
+LangChain — RAG logic and orchestration
 
-LangGraph
-: For workflow graph visualization and control
+LangGraph — Workflow graph visualization and control
 
-LangSmith
-: For tracing, debugging, and evaluation
+LangSmith — Tracing, debugging, and evaluation
 
 🧩 Modular and Extendable
 
@@ -35,8 +31,6 @@ Supports both local and cloud LLMs (OpenAI, HuggingFace, etc.)
 Jupyter notebooks and scripts for each stage of the pipeline
 
 Visual workflow demonstrations using LangGraph
-
-
 
 ⚡ Quick Start
 1. Clone the Repository
@@ -52,7 +46,7 @@ pip install -r requirements.txt
 
 4. Run the Tutorial
 
-You can explore the Jupyter notebooks step by step:
+Explore the Jupyter notebooks step by step:
 
 jupyter notebook notebooks/
 
@@ -62,37 +56,21 @@ Or run the pipeline directly:
 python src/rag_pipeline.py
 
 🧩 Tech Stack
-
-Category	Tools :
-
+Category	Tools
 Framework	LangChain, LangGraph, LangSmith
-
-LLMs	 : 
-
-OpenAI GPT, HuggingFace models
-
-Embeddings :
-
-SentenceTransformers, OpenAIEmbeddings
-
-Vector Stores :
-
-FAISS, ChromaDB
-
-Evaluation	:
-
-LangSmith traces, metrics, and visualizations
-
+LLMs	OpenAI GPT, HuggingFace models
+Embeddings	SentenceTransformers, OpenAIEmbeddings
+Vector Stores	FAISS, ChromaDB
+Evaluation	LangSmith traces, metrics, and visualizations
 🧪 Monitoring and Evaluation
 
--- LangSmith integration allows:
+LangSmith integration allows:
 
--- Real-time tracing of model responses
+Real-time tracing of model responses
 
--- Evaluation of retrieval accuracy and context relevance
+Evaluation of retrieval accuracy and context relevance
 
--- Comparison of prompt strategies
-
+Comparison of prompt strategies
 
 🧠 What You’ll Learn
 
@@ -102,15 +80,16 @@ How to integrate LangChain + LangGraph + LangSmith
 
 Best practices for building scalable and observable LLM applications
 
-Debugging, evaluation, and improvement of RAG pipelines
+Debugging, evaluation, and continuous improvement of RAG pipelines
 
 💡 Author
 
 Hassan Hajimohammadi
 Machine Learning & NLP Researcher | AI Engineer
 
- • Email : hasanhasanhaji@gmail.com
- • GitHub :  hasanhasanhaji
+📧 Email: hasanhasanhaji@gmail.com
+
+🐙 GitHub: hasanhasanhaji
 
 🪪 License
 
@@ -122,7 +101,5 @@ This project is licensed under the MIT License — see the LICENSE
 If you find this project helpful:
 
 ⭐ Star the repo to support it
-
 🐛 Open issues for questions or suggestions
-
-🤝 Pull requests are welcome!
+🤝 Pull requests are always welcome!

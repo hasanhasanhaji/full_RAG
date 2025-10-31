@@ -62,12 +62,19 @@ Or run the pipeline directly:
 python src/rag_pipeline.py
 
 🧩 Tech Stack
-Category	Tools
+
+Category	Tools :
+
 Framework	LangChain, LangGraph, LangSmith
-LLMs	OpenAI GPT, HuggingFace models
-Embeddings	SentenceTransformers, OpenAIEmbeddings
-Vector Stores	FAISS, ChromaDB
-Evaluation	LangSmith traces, metrics, and visualizations
+
+LLMs	 : 
+OpenAI GPT, HuggingFace models
+Embeddings :
+SentenceTransformers, OpenAIEmbeddings
+Vector Stores :
+FAISS, ChromaDB
+Evaluation	:
+LangSmith traces, metrics, and visualizations
 
 🧪 Monitoring and Evaluation
 

@@ -1,11 +1,12 @@
-🧠 Full_RAG — Complete RAG Tutorial with LangChain, LangGraph & LangSmith
+🧠 **Full_RAG — Complete RAG Tutorial with LangChain, LangGraph & LangSmith**
+
 
 Welcome to Full_RAG, a complete hands-on tutorial and implementation guide for Retrieval-Augmented Generation (RAG) systems — built with the power of LangChain, LangGraph, and LangSmith.
 This repository walks you through every step of designing, implementing, testing, and monitoring an end-to-end RAG pipeline, from document ingestion to evaluation and deployment.
 
-🚀** Features**
+🚀**Features**
 
-📘 Comprehensive RAG Pipeline
+📘 **Comprehensive RAG Pipeline**
 
 Data ingestion, text splitting, and vectorization
 
@@ -13,7 +14,7 @@ Retrieval and context injection
 
 Response generation and evaluation
 
-⚙️ Built with Modern AI Frameworks
+⚙️ **Built with Modern AI Frameworks**
 
 LangChain — RAG logic and orchestration
 
@@ -21,13 +22,13 @@ LangGraph — Workflow graph visualization and control
 
 LangSmith — Tracing, debugging, and evaluation
 
-🧩 Modular and Extendable
+🧩 **Modular and Extendable**
 
 Plug-and-play embeddings and retrievers
 
 Supports both local and cloud LLMs (OpenAI, HuggingFace, etc.)
 
-🧠 Includes Examples & Tutorials
+🧠 **Includes Examples & Tutorials**
 
 Jupyter notebooks and scripts for each stage of the pipeline
 
@@ -66,7 +67,7 @@ python src/rag_pipeline.py
 | **Evaluation**    | LangSmith traces, metrics, and visualizations |
 
 
-🧪** Monitoring and Evaluation**
+🧪**Monitoring and Evaluation**
 
 LangSmith integration allows:
 

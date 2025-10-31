@@ -3,7 +3,8 @@
 Welcome to Full_RAG, a complete hands-on tutorial and implementation guide for Retrieval-Augmented Generation (RAG) systems — built with the power of LangChain, LangGraph, and LangSmith.
 This repository walks you through every step of designing, implementing, testing, and monitoring an end-to-end RAG pipeline, from document ingestion to evaluation and deployment.
 
-🚀 Features
+🚀** Features**
+
 📘 Comprehensive RAG Pipeline
 
 Data ingestion, text splitting, and vectorization
@@ -50,12 +51,11 @@ Explore the Jupyter notebooks step by step:
 
 jupyter notebook notebooks/
 
-
 Or run the pipeline directly:
 
 python src/rag_pipeline.py
 
-🧩 Tech Stack
+🧩 **Tech Stack**
 
 | **Category**      | **Tools**                                     |
 | ----------------- | --------------------------------------------- |
@@ -66,7 +66,7 @@ python src/rag_pipeline.py
 | **Evaluation**    | LangSmith traces, metrics, and visualizations |
 
 
-🧪 Monitoring and Evaluation
+🧪** Monitoring and Evaluation**
 
 LangSmith integration allows:
 
@@ -76,7 +76,7 @@ Evaluation of retrieval accuracy and context relevance
 
 Comparison of prompt strategies
 
-🧠 What You’ll Learn
+🧠 **What You’ll Learn**
 
 Fundamentals of RAG systems
 
@@ -86,24 +86,24 @@ Best practices for building scalable and observable LLM applications
 
 Debugging, evaluation, and continuous improvement of RAG pipelines
 
-💡 Author
+💡 **Author**
 
 Hassan Hajimohammadi
-Machine Learning & NLP Researcher | AI Engineer
+Machine Learning & NLP Researcher | AI Engineer | phd in AI
 
 📧 Email: hasanhasanhaji@gmail.com
 
 🐙 GitHub: hasanhasanhaji
 
-🪪 License
+🪪 **License**
 
 This project is licensed under the MIT License — see the LICENSE
  file for details.
 
-🌟 Support & Contribution
+🌟 **Support & Contribution**
 
 If you find this project helpful:
 
-⭐ Star the repo to support it
+⭐ **Star the repo to support it**
 🐛 Open issues for questions or suggestions
 🤝 Pull requests are always welcome!

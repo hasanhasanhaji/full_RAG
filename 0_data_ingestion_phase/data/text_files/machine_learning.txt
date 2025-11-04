@@ -1,0 +1,13 @@
+ Machine learning basics
+    generate for me
+    Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to learn from and make predictions or decisions based on data.
+    Instead of being explicitly programmed to perform a specific task, machine learning systems improve their performance over  time as they are exposed to more data.
+    Machine learning can be broadly categorized into three main types: supervised learning, unsupervised learning, and reinforcement learning.
+    1. Supervised Learning: In supervised learning, the algorithm is trained on a labeled   dataset, where each input is paired with the correct output. 
+    The model learns to map inputs to outputs and can make predictions on new, unseen data.
+    2. Unsupervised Learning: In unsupervised learning, the algorithm is given an unlabeled dataset and must find patterns or structures within the data on its own.
+    Common techniques include clustering and dimensionality reduction.
+    3. Reinforcement Learning: In reinforcement learning, an agent learns to make decisions by taking actions in an environment to maximize a cumulative reward.    
+
+
+    
